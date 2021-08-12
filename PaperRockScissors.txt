@@ -1,3 +1,7 @@
 Find a partner to play paper rock and scissors
 On the count of 3, select either paper, rock or scissors
 Paper beats rock, scissors beats paper and rock beats scissors
+Attempt paper, rock and scisscors a 2nd time
+Try to anticipate your partner's selection
+Select the hand guesture to beat your partner
+Do not give up
